@@ -1,4 +1,4 @@
-# Turtle_Homework_ZMR
+# Turtle库绘制分形几何练习
 pythonTurtle库绘制分形几何练习
 ## 学习过程
 * 学习turtle基本语法
